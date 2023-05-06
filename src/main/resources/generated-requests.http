@@ -1,0 +1,5 @@
+### Get the most reactive person
+GET http://localhost:8080/reactive/persons/max
+
+### Get list of all reactive persons
+GET http://localhost:8080/reactive/persons
