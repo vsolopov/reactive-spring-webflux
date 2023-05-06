@@ -1,0 +1,2 @@
+### Get largest nasa picture
+GET http://localhost:8080/nasa/pictures/14/largest
